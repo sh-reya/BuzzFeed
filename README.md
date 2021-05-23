@@ -7,8 +7,6 @@ This Application is similar to google news that provides the user with latest ne
 The news appear in the form of clickable cards. When user clicks on a particular headline card, the full story
 apprears on the chrome tab.
 
-<img src="img/b1.jpeg" align="left" height="600" width="250">   <img src="img/b2.jpeg" align="right" height="600" width="250">
-
 #### Tools and Languages Required
 <list>
   <ul>
@@ -22,3 +20,7 @@ apprears on the chrome tab.
     <li>API</li>
   </ul>
   </list>
+
+
+<img src="img/b1.jpeg" align="left" height="600" width="250">   <img src="img/b2.jpeg" align="right" height="600" width="250">
+
