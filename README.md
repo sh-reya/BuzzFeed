@@ -7,7 +7,8 @@ This Application is similar to google news that provides the user with latest ne
 The news appear in the form of clickable cards. When user clicks on a particular headline card, the full story
 apprears on the chrome tab.
 
-![](img/b1.jpeg) 
+ <div style="text-align:center"><img src="img/b1.jpg" /></div>
+ 
 
 #### Tools and Languages Required
 
