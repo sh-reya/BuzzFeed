@@ -10,9 +10,6 @@ apprears on the chrome tab.
 ![](img/b1.jpeg) 
 
 #### Tools and Languages Required
-
-![](img/b3.jpeg)   
-
 <list>
   <ul>
     <li>Android Studio</li>
@@ -27,6 +24,6 @@ apprears on the chrome tab.
   </list>
   
   
-  ![](img/b2.jpeg)
+  ![](img/b3.jpeg)     ![](img/b2.jpeg)  
   
   
