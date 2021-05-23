@@ -1,6 +1,6 @@
 # BuzzFeed
-<img src="/img/logo.jpg" align="left"
-width="200" hspace="10" vspace="10">
+<img src="/img/logo.jpg" align="right"
+width="20" hspace="10" vspace="10">
 
 
 
