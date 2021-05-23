@@ -1,4 +1,7 @@
 # BuzzFeed
+<img src="/img/logo.jpg" align="left"
+width="200" hspace="10" vspace="10">
+
 
 
 
@@ -7,7 +10,7 @@ This Application is similar to google news that provides the user with latest ne
 The news appear in the form of clickable cards. When user clicks on a particular headline card, the full story
 apprears on the chrome tab.
 
-![](img/b1.jpeg) 
+<img src="img/b1.jpeg" align="center" height="600" width="250">
 
 #### Tools and Languages Required
 <list>
@@ -23,7 +26,7 @@ apprears on the chrome tab.
   </ul>
   </list>
   
-  
-  ![](img/b3.jpeg)     ![](img/b2.jpeg)  
+  <img src="img/b2.jpeg" align="center" height="600" width="250">
+   
   
   
