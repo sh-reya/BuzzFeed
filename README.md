@@ -1,5 +1,5 @@
 <img src="/img/logo.jpg" align="right"
-width="20" hspace="10" vspace="10">
+width="50" hspace="10" vspace="10">
 # BuzzFeed
 
 #### About
