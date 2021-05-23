@@ -30,7 +30,7 @@ Download the app by clicking here!!
 [<img src="img/logo.jpg" hspace="15" height="60" width="60">](https://drive.google.com/file/d/1r8T2L4QTy6v3ECFcsRV_5E1e4M82qcLZ/view?usp=sharing) 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Connect on Linkedin
 [Click here to check out my linkedin profile](https://www.linkedin.com/in/shreya-kumari-b9b5841a0/)
   
