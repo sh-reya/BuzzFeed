@@ -25,7 +25,7 @@ apprears on the chrome tab.
 
 <img src="img/lol.jpeg" align="left" height="600" width="250">   <img src="img/b2.jpeg" align="right" height="600" width="250"> </p>
 ## Download 
-Download the app by clicking on the logo!! 
+Download the app by clicking here!! 
 [<img src="img/logo.jpg" hspace="15" height="60" width="60">](https://drive.google.com/file/d/1r8T2L4QTy6v3ECFcsRV_5E1e4M82qcLZ/view?usp=sharing) 
 
 
