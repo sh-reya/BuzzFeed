@@ -11,7 +11,7 @@ apprears on the chrome tab.
 
 #### Tools and Languages Required
 
-![](img/b1.jpeg)   
+![](img/b3.jpeg)   
 
 <list>
   <ul>
