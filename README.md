@@ -26,7 +26,7 @@ apprears on the chrome tab.
 <img src="img/lol.jpeg" align="left" height="600" width="250">   <img src="img/b2.jpeg" align="right" height="600" width="250"> </p>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Connect on Linkedin
 [Click here to check out my linkedin profile](https://www.linkedin.com/in/shreya-kumari-b9b5841a0/)
   
