@@ -23,7 +23,7 @@ apprears on the chrome tab.
   
  
 
-<img src="img/lol.jpeg" align="left" height="600" width="350">   <img src="img/b2.jpeg" align="right" height="600" width="250"> </p>
+<img src="img/lol.jpeg" align="left" height="600" width="350">   <img src="img/b2.jpeg" align="right" height="600" width="350"> </p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
